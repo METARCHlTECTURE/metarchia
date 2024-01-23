@@ -5,7 +5,7 @@ header-img: img/home-bg.jpg
 email: 1399472841@qq.com
 description: "Let's do some interesting shit!"
 keyword: "Metarchia, metarchia, @metarchia, Metarchia 的博客, Metarchia Blog, 博客, 个人网站, 互联网, Web, JavaScript, React, React Native, 前端, 设计"
-url: "https://metarchia.github.io" # your host, for absolute URL
+url: "https://metarchitecture.space" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
@@ -70,7 +70,7 @@ netease_comment: false
 
 # Google Analytics
 ga_track_id: "UA-49627206-1" # Format: UA-xxxxxx-xx
-ga_domain: metarchia.github.io
+ga_domain: metarchitecture.space
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
@@ -91,12 +91,12 @@ page-mathjax: false
 # Friends
 friends:
   [
-    { title: "METARCHIABOT1", href: "https://metarchia.github.io" },
-    { title: "METARCHIABOT2", href: "https://metarchia.github.io" },
-    { title: "METARCHIABOT3", href: "https://metarchia.github.io" },
-    { title: "METARCHIABOT4", href: "https://metarchia.github.io" },
-    { title: "METARCHIABOT5", href: "https://metarchia.github.io" },
-    { title: "METARCHIABOT6", href: "https://metarchia.github.io" },
-    { title: "METARCHIABOT7", href: "https://metarchia.github.io" },
-    { title: "METARCHIABOT8", href: "https://metarchia.github.io" },
+    { title: "METARCHIABOT1", href: "https://metarchitecture.space" },
+    { title: "METARCHIABOT2", href: "https://metarchitecture.space" },
+    { title: "METARCHIABOT3", href: "https://metarchitecture.space" },
+    { title: "METARCHIABOT4", href: "https://metarchitecture.space" },
+    { title: "METARCHIABOT5", href: "https://metarchitecture.space" },
+    { title: "METARCHIABOT6", href: "https://metarchitecture.space" },
+    { title: "METARCHIABOT7", href: "https://metarchitecture.space" },
+    { title: "METARCHIABOT8", href: "https://metarchitecture.space" },
   ]
