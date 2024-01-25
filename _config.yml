@@ -74,7 +74,7 @@ ga_domain: metarchitecture.space
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
-sidebar-about-description: "Let's do some interesting shit! <br> React Team @metarchitecture"
+sidebar-about-description: "Let's do some interesting shit! <br> CEO/CTO/CFO/UFO @metarchitecture"
 sidebar-avatar: https://avatars.githubusercontent.com/u/56643309?s=400&u=4a804db93ded2e6ede041c21eeaa93de291650ab&v=4 # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
