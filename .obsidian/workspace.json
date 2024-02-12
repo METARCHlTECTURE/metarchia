@@ -129,12 +129,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -147,5 +147,7 @@
     }
   },
   "active": "f570bfcf91c828de",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "_posts/2024-01-26-coffee.md"
+  ]
 }
