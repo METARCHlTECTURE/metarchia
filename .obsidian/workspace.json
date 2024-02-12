@@ -1,0 +1,158 @@
+{
+  "main": {
+    "id": "f6f6b390ff98f8e6",
+    "type": "split",
+    "children": [
+      {
+        "id": "eb466ee7696f87d4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "535a14bd7d8df0e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2024-01-26-coffee.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f9dbd1385b97ce96",
+    "type": "split",
+    "children": [
+      {
+        "id": "9d80d846d9b76611",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "362e6feace1098e1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "287e2ace2644cae5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "af7eb66c252e5cdc",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "529847ead6194204",
+    "type": "split",
+    "children": [
+      {
+        "id": "c30d601b227ac082",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "559e867028a2fda2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_posts/2024-01-26-coffee.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b80c43dacfd1342b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "_posts/2024-01-26-coffee.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "303ce194e35d69fb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "757333fbf4e60570",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "_posts/2024-01-26-coffee.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "535a14bd7d8df0e1",
+  "lastOpenFiles": [
+    "_posts/2024-01-26-coffee.md",
+    "_doc/README.zh.md",
+    "_doc/Manual.md",
+    "_includes/about/en.md",
+    "_includes/about/zh.md",
+    "README.md"
+  ]
+}
