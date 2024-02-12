@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d0d9094e9886d8bd",
+        "id": "bc882799045d1a91",
         "type": "tabs",
         "children": [
           {
-            "id": "f591f4c71671745f",
+            "id": "aa9c14e1ac5465b4",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -162,13 +162,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "f591f4c71671745f",
+  "active": "aa9c14e1ac5465b4",
   "lastOpenFiles": [
+    "README.md",
     "_posts/2024-01-26-coffee.md",
     "_doc/README.zh.md",
     "_doc/Manual.md",
     "_includes/about/en.md",
-    "_includes/about/zh.md",
-    "README.md"
+    "_includes/about/zh.md"
   ]
 }
