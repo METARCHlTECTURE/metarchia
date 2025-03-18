@@ -5,8 +5,8 @@ header-img: img/home-bg.jpg
 email: 1399472841@qq.com
 description: "Let's do some interesting shit!"
 keyword: "Metarchia, metarchia, @metarchia, Metarchia 的博客, Metarchia Blog, 博客, 个人网站, 互联网, Web, JavaScript, React, React Native, 前端, 设计"
-url: "https://metarchltecture.github.io" # your host, for absolute URL
-baseurl: "/metarchia.github.io" # for example, '/blog' if your blog hosted on 'host/blog'
+url: "https://metarchltecture.github.io/metarchia.github.io" # your host, for absolute URL
+baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
 future: true
