@@ -70,7 +70,7 @@ netease_comment: false
 
 # Google Analytics
 ga_track_id: "UA-49627206-1" # Format: UA-xxxxxx-xx
-ga_domain: metarchitecture.space
+ga_domain: https://metarchltecture.github.io/metarchia.github.io
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
@@ -91,12 +91,12 @@ page-mathjax: false
 # Friends
 friends:
   [
-    { title: "METARCHIABOT1", href: "https://metarchitecture.space" },
-    { title: "METARCHIABOT2", href: "https://metarchitecture.space" },
-    { title: "METARCHIABOT3", href: "https://metarchitecture.space" },
-    { title: "METARCHIABOT4", href: "https://metarchitecture.space" },
-    { title: "METARCHIABOT5", href: "https://metarchitecture.space" },
-    { title: "METARCHIABOT6", href: "https://metarchitecture.space" },
+    { title: "METARCHIABOT1", href: "https://https://metarchltecture.github.io/metarchia.github.io" },
+    { title: "METARCHIABOT2", href: "https://https://metarchltecture.github.io/metarchia.github.io" },
+    { title: "METARCHIABOT3", href: "https://https://metarchltecture.github.io/metarchia.github.io" },
+    { title: "METARCHIABOT4", href: "https://https://metarchltecture.github.io/metarchia.github.io" },
+    { title: "METARCHIABOT5", href: "https://https://metarchltecture.github.io/metarchia.github.io" },
+    { title: "METARCHIABOT6", href: "https://https://metarchltecture.github.io/metarchia.github.io" },
     { title: "METARCHIABOT7", href: "https://www.coze.com" },
     { title: "METARCHIABOT8", href: "https://developers.notion.com" },
   ]
