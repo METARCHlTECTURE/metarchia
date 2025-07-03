@@ -3,12 +3,12 @@
     "title": "METARCHITECTURE Blog",
     "author": "METARCHITECTURE <twistonidea@gmail.com>",
     "version": "1.8.2",
-    "homepage": "https://metarchltecture.github.io/metarchia.github.io",
+    "homepage": "https://metarchltecture.github.io/metarchia",
     "repository": {
         "type": "git",
-        "url": "https://github.com/METARCHlTECTURE/metarchia.github.io"
+        "url": "https://github.com/METARCHlTECTURE/metarchia"
     },
-    "bugs": "https://github.com/METARCHlTECTURE/metarchia.github.io/issues",
+    "bugs": "https://github.com/METARCHlTECTURE/metarchia",
     "devDependencies": {
         "grunt": ">=1.3.0",
         "grunt-banner": "~0.2.3",
